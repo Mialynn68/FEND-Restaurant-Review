@@ -238,7 +238,6 @@ header {
     text-decoration: none;
     text-transform: uppercase;
 }
-
 #restaurants-list li a:hover {
     background-color: #ff9300;
 }
@@ -338,7 +337,6 @@ header {
     #restaurants-list li {
         width: 30%;
     }
-
     #breadcrumb {
         padding: 10px 40px 16px;
         list-style: none;
@@ -351,12 +349,10 @@ header {
         width: 50%;
         padding: 140px 40px 30px;
     }
-
     #reviews-container {
         padding-top: 30px;
         padding-bottom: 80px;
     }
-
     #map-container {
         height: 35vh;
     }
